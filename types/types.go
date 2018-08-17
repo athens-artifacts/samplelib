@@ -1,8 +1,8 @@
 package types
 
-type Thing struct {
+type Lion struct {
 }
 
-func (t Thing) String() string {
-	return "rawr"
+func (t Lion) String() string {
+	return "The 🦁 says rawr!"
 }

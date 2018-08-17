@@ -7,5 +7,5 @@ import (
 )
 
 func Hello() string {
-	return fmt.Sprintf("%s", types.Thing{})
+	return fmt.Sprintf("%s", types.Lion{})
 }
